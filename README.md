@@ -26,7 +26,7 @@ This script simplifies file management by moving files into organized folders, m
 If you are using Git, clone the repository with the following command:
 
 ```bash
-git clone https://github.com/yourusername/FileOrganizer.git
+git clone https://github.com/Brainyking23/File-Organizer.git
 ```
 
 Alternatively, you can download the script directly from the repository.
@@ -98,7 +98,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Oluwapekarere Adeyinka(https://github.com/BrainyKing23)
 ```
 
-### Instructions for Use:
-1. Replace `yourusername` with your actual GitHub username or relevant information.
-2. Save this content as `README.md` in your project directory alongside your script.
-3. This document provides clear instructions for users to understand how to use your file organization script effectively.
