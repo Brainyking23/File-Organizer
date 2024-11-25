@@ -44,7 +44,7 @@ cd /path/to/FileOrganizer
 Before running the script, you need to give it executable permissions. Run:
 
 ```bash
-chmod +x organize_files.sh
+chmod +x brainy.sh
 ```
 
 ### 4. Run the Script
@@ -53,12 +53,12 @@ To execute the script, use one of the following commands:
 
 - If you are in the same directory as the script:
   ```bash
-  ./organize_files.sh
+  ./brainy.sh
   ```
 
 - If you are in a different directory:
   ```bash
-  /path/to/FileOrganizer/organize_files.sh
+  /path/to/FileOrganizer/brainy.sh
   ```
 
 ### 5. Check Output
